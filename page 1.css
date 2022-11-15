@@ -1,0 +1,62 @@
+.h1{
+
+   background-color: black;
+   color: white;
+   font-size: larger;
+   
+   
+   
+}
+
+.par{
+
+    background-color: brown;
+    color: aliceblue;
+    
+   
+
+}
+
+img{
+
+   height: 107ch;
+   width: 100h;
+
+}
+
+.history{
+
+      background-color: black;
+      color: white;
+
+}
+
+.h3{
+
+     background-color: darkred;
+     color: wheat;
+
+}
+
+.game{
+
+    background-color: black;
+      color: white;
+
+}
+
+.page3{
+
+  background-color: black;
+  color: goldenrod
+
+}
+
+.wiki :hover{
+
+    font-size: larger;
+    background-color: black;
+    color: white;
+
+
+}
